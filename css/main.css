@@ -1,2 +1,30 @@
-body
-{background: blue;}
+body {
+  background-color: pink;
+}
+hr {
+  border: 2px solid purple;
+  left: 0;
+  position: absolute;
+  width: 100px;
+}
+section {
+  border: 1px;
+  width: 80%;
+  margin: 5% 10%;
+}
+div.retrato img {
+  width: 100%;
+  height: 100%;
+}
+.retrato {
+  border: 1px solid black;
+  display: inline-block;
+  height: 300px;
+  margin-left: 10%;
+  width: 20%
+}
+p {
+color: blue;
+position: relative;
+bottom: 70px;
+}
